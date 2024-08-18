@@ -33,3 +33,7 @@ The SQL script (`SQLQuery1.sql`) includes the following analyses:
 1. **Clone the Repository:**
    ```bash
    https://github.com/AdityaDomala/Retail_Data_Analytics_Project.git
+2. **Install the required packages:**
+   ```bash
+   pip install -r requirements.txt
+
