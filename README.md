@@ -32,4 +32,4 @@ The SQL script (`SQLQuery1.sql`) includes the following analyses:
 ## Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/retail-data-analytics.git
+   https://github.com/AdityaDomala/Retail_Data_Analytics_Project.git
